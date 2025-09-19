@@ -11,20 +11,57 @@ Formula: ¶ \* r\^2
 
 where r is the radius.
 
-```{r}
+{r}
 
 # Function to calculate the area of a circle
-area_of_circle <- function(radius) {
-  area <- pi * radius^2
-  return(area)
-}
-radius <- 5 # from the example
-circle_area <- area_of_circle(radius)
-cat("The area of the circle with radius", radius, "is", circle_area, "\n")
-```
+
+area_of_circle \<- function(radius) { area \<- pi \* radius\^2 return(area) } radius \<- 5 \# from the example circle_area \<- area_of_circle(radius) cat("The area of the circle with radius", radius, "is", circle_area, "\\n")
 
 ![](images/EpiTriad.png)
 
 This is an epidemiological Triad that explains the interdependence of host, pathogen, and environment in disease occurrence. The **Host** in this triad is the organism that can become infected. Host factors includes , but not limited to age, genetics, immune status e.t.c. The **Pathogen** is the biological entity that causes infection and subsequently a disease. **Pathogen** could include infectivity, virulence or even dose. The **Environment** includes all external conditions that affect both the pathogen and the host. These factors or conditions can include climate, population density, vector or parasite presence. A vivid example would be Malaria, a disease caused by a pathogen of parasitic origin known as *Plasmodium,* with the help of a viable environment, the host is susceptible to this infection and often time becomes infected and this could lead to serious health impairment.
 
 Summarily, the epidemiological triad teaches that diseases aren't just caused by pathogens alone, it emerges when a susceptible host, a viable pathogen and a favorable environment comes together.
+
+------------------------------------------------------------------------
+
+> # [WORKSHEET 2]{.underline}
+
+**Sample Size for disease Detection**
+
+![SAMPLE SIZE TABLE](images/ss_table (1).png){fig-align="center"}
+
+[**Question 1**]{.underline}
+
+Find the sample size for necessary to detect a disease at or above **5%** prevalence in a herd of **5000** deer. The desired level of confidence is **95%**
+
+***Answer***
+
+Using the table above, it can be deduced that the sample size needed for the above question is **59,** detecting the disease at or above 5% prevalence in a herd of 5000 deer and at a 95% confidence interval.
+
+**Question 2**
+
+Using the hypergeometric table, compare the sample size requirements for the following scenarios:
+
+-   95% confidence interval in detecting a disease at 1% prevalence in a large population
+
+99% confidence interval in detecting a disease at 2% prevalence in a large population.
+
+***Answer***
+
+Let us assume that the value of the large population is 7000; therefore at
+
+-   95% C.I and at 1% prevalence, the sample size requirement would be **293.**
+-   99% C.I and at 2% prevalence, the sample size requirement would be **225**
+
+Therefore, we can extrapolate conclusively that at large populations, the hypergeometric calculations is almost the same as the binomial calculation.
+
+**Question 3**
+
+You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\_\_\_ (\<, =, \>) \_\_\_\_%.
+
+***Answer***
+
+With **0** deer not having antibodies out of **300** sampled in a herd of **4,000** deer, the **95%** upper confidence limit for prevalence is about **\< 1.5%**. Using the hypergeometric approach for a herd of **N = 4,000** and a sample of **n = 300**, the **95% upper bound** on true prevalence is about **\< 1%** ; more precisely, about **\< 0.95%**.
+
+# 
