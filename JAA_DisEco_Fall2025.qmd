@@ -1,0 +1,191 @@
+---
+title: "JAA_DisEco_Fall2025"
+author: "Joseph Adeyinka Adekanmi"
+format: html
+editor: visual
+---
+
+## Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+{r}
+
+# Function to calculate the area of a circle
+
+area_of_circle \<- function(radius) { area \<- pi \* radius\^2 return(area) } radius \<- 5 \# from the example circle_area \<- area_of_circle(radius) cat("The area of the circle with radius", radius, "is", circle_area, "\\n")
+
+![](images/EpiTriad.png)
+
+This is an epidemiological Triad that explains the interdependence of host, pathogen, and environment in disease occurrence. The **Host** in this triad is the organism that can become infected. Host factors includes , but not limited to age, genetics, immune status e.t.c. The **Pathogen** is the biological entity that causes infection and subsequently a disease. **Pathogen** could include infectivity, virulence or even dose. The **Environment** includes all external conditions that affect both the pathogen and the host. These factors or conditions can include climate, population density, vector or parasite presence. A vivid example would be Malaria, a disease caused by a pathogen of parasitic origin known as *Plasmodium,* with the help of a viable environment, the host is susceptible to this infection and often time becomes infected and this could lead to serious health impairment.
+
+Summarily, the epidemiological triad teaches that diseases aren't just caused by pathogens alone, it emerges when a susceptible host, a viable pathogen and a favorable environment comes together.
+
+------------------------------------------------------------------------
+
+> # [WORKSHEET 2]{.underline}
+
+**Sample Size for disease Detection**
+
+![SAMPLE SIZE TABLE](images/ss_table%20(1).png){alt="SAMPLE SIZE TABLE" fig-align="center"}
+
+[**Question 1**]{.underline}
+
+Find the sample size for necessary to detect a disease at or above **5%** prevalence in a herd of **5000** deer. The desired level of confidence is **95%**
+
+***Answer***
+
+Using the table above, it can be deduced that the sample size needed for the above question is **59,** detecting the disease at or above 5% prevalence in a herd of 5000 deer and at a 95% confidence interval.
+
+**Question 2**
+
+Using the hypergeometric table, compare the sample size requirements for the following scenarios:
+
+-   95% confidence interval in detecting a disease at 1% prevalence in a large population
+
+99% confidence interval in detecting a disease at 2% prevalence in a large population.
+
+***Answer***
+
+Let us assume that the value of the large population is 7000; therefore at
+
+-   95% C.I and at 1% prevalence, the sample size requirement would be **293.**
+-   99% C.I and at 2% prevalence, the sample size requirement would be **225**
+
+Therefore, we can extrapolate conclusively that at large populations, the hypergeometric calculations is almost the same as the binomial calculation.
+
+**Question 3**
+
+You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\_\_\_ (\<, =, \>) \_\_\_\_%.
+
+***Answer***
+
+With **0** deer not having antibodies out of **300** sampled in a herd of **4,000** deer, the **95%** upper confidence limit for prevalence is about **\< 1.5%**. Using the hypergeometric approach for a herd of **N = 4,000** and a sample of **n = 300**, the **95% upper bound** on true prevalence is about **\< 1%** ; more precisely, about **\< 0.95%**.
+
+------------------------------------------------------------------------
+
+# WORKSHEET 3
+
+**Measures of disease frequency: Prevalence and Incidence**
+
+|     |     |     |     |     |     |     |
+|-----|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+
+### a) Incidence on 06/12/25, 06/14/25, and 06/15/25
+
+Definition:\
+Incidence = (Number of new cases on a given day) ÷ (Number of individuals at risk on that day)
+
+| DATE    | NEW CASES | INCIDENCE (Cases per elk day)               |
+|---------|-----------|---------------------------------------------|
+| 6/12/25 | 6         | 6 / 53 = **0.113(11.3%) Cases per elk day** |
+| 6/14/25 | 2         | 2 / 47 = **0.043(4.3%) Cases per elk day**  |
+| 6/15/25 | o         | 0 / 45= **0.000(0%) Cases per elk day**     |
+
+**N.B: unit; Cases per elk day**
+
+### b) Prevalence on 06/13/25 and 06/16/25
+
+Definition:\
+Prevalence = (Number of existing cases on a specific day) ÷ (Total population)
+
+| Date    | Existing Case | Prevalence (%)              |
+|---------|---------------|-----------------------------|
+| 6/13/25 | 12            | 12 / 56 = **0.214** (21.4%) |
+| 6/16/25 | 5             | 5 / 56 = **0.089** (8.9%)   |
+
+Total Elk = 56
+
+By **06/13/25**, these elk were showing signs of conjunctivitis (new + ongoing):
+
+-   **2320B** – first infected 06/12
+
+-   **2355B** – first infected 06/11
+
+-   **2565B** – first infected 06/11
+
+-   **2763B** – first infected 06/12
+
+-   **2772B** – first infected 06/12
+
+-   **1889B** – first infected 06/10
+
+-   **1322B** – first infected 06/13 **(new)**
+
+-   **4533B** – first infected 06/13 **(new)**
+
+-   **4597B** – first infected 06/12
+
+-   **5666B** – first infected 6/11
+
+-   **5971B** – first infected 06/11
+
+-   **6001B** – first infected 06/12
+
+By **06/16/25**, only elk **still showing disease** were counted (recovered elk are no longer included):
+
+-   **2320B** – still symptomatic
+
+-   **1766B** – symptomatic since 06/14
+
+-   **1322B** – symptomatic since 06/13
+
+-   **4533B** – symptomatic since 06/13
+
+-   **4599B** – symptomatic since 06/14
+
+-   Existing infected elk: **2320B, 1766B, 1322B, 4533B, 4599B**
+
+### c) Day when Prevalence = Incidence (numerically)
+
+On **06/15/25**, both prevalence and incidence were **0** because no new or existing cases were observed.
+
+### d) Day with Lowest Incidence
+
+The lowest incidence occurred on **06/15/25**, when there were **0 new cases** of conjunctivitis.
+
+------------------------------------------------------------------------
+
+**TICK - TALK : ASSIGNMENT**
+
+**Basics of ticks identification methods**
+
+The identification of Ticks cuts across different methods and varying species. it includes identification of parts such as the mouth, color, presence of scutum and also festoons. Ticks are broadly classified into soft ticks (Argasidae) and Hard Ticks (Ixodidae).
+
+Intrinsically, Ticks are classified based on the following: Life stage \> sex\> Genus \> Specie.
+
+1.  Life stages: Genital Pores ; 6 or 8 legs.
+2.  Sex: Conscutum or Alloscutum i.e either male or female.
+3.  Genus: Presence of anal groove, either posterior or anterior.
+4.  Species: Using a dichotomous key.
+
+More easily identified is the use of another method with the acronym S.A.M
+
+S. Scutum ; patterned or not.
+
+A. Anal groove ; Anterior or Posterior.
+
+M. Mouth parts ; Long or short.
+
+**PUBLIC HEALTH SIGNIFICANCE OF TICKS**
+
+1.  Ticks are of major public health significance because they are vectors of numerous pathogens that cause diseases in humans and animals
+
+2.  They transmit bacteria, viruses, and protozoa responsible for illnesses such as Lyme disease, Rocky Mountain spotted fever, anaplasmosis, babesiosis, and tick borne encephalitis.
+
+3.  Tick infestations can lead to allergic reactions, localized skin infections, and in severe cases, tick paralysis caused by neurotoxins in their saliva.
+
+4.  Their ability to parasitize many host species promotes the spread of zoonotic illnesses among wildlife, cattle, and humans.
+
+    As a result, effective tick surveillance and control are key components of global public health initiatives for preventing and mitigating tick-borne diseases.
