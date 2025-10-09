@@ -1,3 +1,5 @@
+------------------------------------------------------------------------
+
 ---
 title: "JA_DisEco_Fall2025"
 author: "JOSEPH ADEYINKA"
@@ -147,7 +149,7 @@ By **06/16/25**, only elk **still showing disease** were counted (recovered elk 
 
 -   **4599B** – symptomatic since 06/14
 
--    Existing infected elk: **2320B, 1766B, 1322B, 4533B, 4599B**
+-   Existing infected elk: **2320B, 1766B, 1322B, 4533B, 4599B**
 
 ### c) Day when Prevalence = Incidence (numerically)
 
@@ -156,3 +158,38 @@ On **06/15/25**, both prevalence and incidence were **0** because no new or exis
 ### d) Day with Lowest Incidence
 
 The lowest incidence occurred on **06/15/25**, when there were **0 new cases** of conjunctivitis.
+
+------------------------------------------------------------------------
+
+**TICK - TALK : ASSIGNMENT**
+
+**Basics of ticks identification methods**
+
+The identification of Ticks cuts across different methods and varying species. it includes identification of parts such as the mouth, color, presence of scutum and also festoons. Ticks are broadly classified into soft ticks (Argasidae) and Hard Ticks (Ixodidae).
+
+Intrinsically, Ticks are classified based on the following: Life stage \> sex\> Genus \> Specie.
+
+1.  Life stages: Genital Pores ; 6 or 8 legs.
+2.  Sex: Conscutum or Alloscutum i.e either male or female.
+3.  Genus: Presence of anal groove, either posterior or anterior.
+4.  Species: Using a dichotomous key.
+
+More easily identified is the use of another method with the acronym S.A.M
+
+S. Scutum ; patterned or not.
+
+A. Anal groove ; Anterior or Posterior.
+
+M. Mouth parts ; Long or short.
+
+**PUBLIC HEALTH SIGNIFICANCE OF TICKS**
+
+1.  Ticks are of major public health significance because they are vectors of numerous pathogens that cause diseases in humans and animals
+
+2.  They transmit bacteria, viruses, and protozoa responsible for illnesses such as Lyme disease, Rocky Mountain spotted fever, anaplasmosis, babesiosis, and tick borne encephalitis.
+
+3.  Tick infestations can lead to allergic reactions, localized skin infections, and in severe cases, tick paralysis caused by neurotoxins in their saliva.
+
+4.  Their ability to parasitize many host species promotes the spread of zoonotic illnesses among wildlife, cattle, and humans.
+
+    As a result, effective tick surveillance and control are key components of global public health initiatives for preventing and mitigating tick-borne diseases.
