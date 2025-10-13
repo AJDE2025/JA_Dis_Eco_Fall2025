@@ -29,7 +29,7 @@ Summarily, the epidemiological triad teaches that diseases aren't just caused by
 
 **Sample Size for disease Detection**
 
-![SAMPLE SIZE TABLE](images/ss_table%20(1).png){alt="SAMPLE SIZE TABLE" fig-align="center"}
+![SAMPLE SIZE TABLE](images/ss_table%20(1).png){fig-align="center"}
 
 [**Question 1**]{.underline}
 
@@ -87,11 +87,11 @@ With **0** deer not having antibodies out of **300** sampled in a herd of **4,00
 Definition:\
 Incidence = (Number of new cases on a given day) ÷ (Number of individuals at risk on that day)
 
-| DATE    | NEW CASES | INCIDENCE (Cases per elk day)               |
-|---------|-----------|---------------------------------------------|
-| 6/12/25 | 6         | 6 / 53 = **0.113(11.3%) Cases per elk day** |
-| 6/14/25 | 2         | 2 / 47 = **0.043(4.3%) Cases per elk day**  |
-| 6/15/25 | o         | 0 / 45= **0.000(0%) Cases per elk day**     |
+| DATE    | NEW CASES | INCIDENCE (Cases per elk day)              |
+|---------|-----------|--------------------------------------------|
+| 6/12/25 | 5         | 5/ 51 = **0.098(9.8%) Cases per elk day**  |
+| 6/14/25 | 2         | 2 / 44 = **0.045(4.5%) Cases per elk day** |
+| 6/15/25 | 0         | 0 / 45= **0.000(0%) Cases per elk day**    |
 
 **N.B: unit; Cases per elk day**
 
@@ -149,7 +149,11 @@ By **06/16/25**, only elk **still showing disease** were counted (recovered elk 
 
 ### c) Day when Prevalence = Incidence (numerically)
 
-On **06/15/25**, both prevalence and incidence were **0** because no new or existing cases were observed.
+###   On the first day, **06/10/25.** 
+
+ 1. Incidence = 1/56 = 0.0179
+
+2.   Prevalence = 1/56 = 0.0179
 
 ### d) Day with Lowest Incidence
 
@@ -189,3 +193,37 @@ M. Mouth parts ; Long or short.
 4.  Their ability to parasitize many host species promotes the spread of zoonotic illnesses among wildlife, cattle, and humans.
 
     As a result, effective tick surveillance and control are key components of global public health initiatives for preventing and mitigating tick-borne diseases.
+
+------------------------------------------------------------------------
+
+**EXAM 1**
+
+**Question 7**
+
+In 2015, a mass die-off of Saiga antelope occurred in Kazakhstan , resulting in the deaths of over 200,000 animals within a short period. Briefly describe the proximate cause of this extraordinary mortality event and explain how it led to such large-scaled deaths. What measures could be implemented to prevent similar mortality events in the future? Finally, discuss broader conservation strategies that could help safeguard Saiga antelopes from extinction due to disease outbreaks.
+
+**Answer**
+
+In 2015, an outbreak of hemorrhagic septicemia caused by the bacterium Pasteurella multocida type B resulted in the mass extinction of Saiga antelope in Kazakhstan. *P. multocida*, a normally benign commensal organism in the respiratory tract, became pathogenic when exposed to unique environmental conditions. During the calving season, a combination of high humidity and increased temperatures caused physiological stress and optimal conditions for bacterial development in the antelopes' respiratory systems. The infection caused rapid-onset septicemia, resulting in internal bleeding, organ failure, and almost a total mortality among affected herds in just a few days.
+
+To avoid similar large-scale death occurrences, efforts should include improved disease surveillance of Saiga populations, conscious environmental monitoring (temperature and relative humidity), and rapid veterinarian response systems capable of early infection detection and field diagnostics. Furthermore, reducing habitat fragmentation would let herds to disperse more widely, lowering density dependent disease transmission.
+
+Enhancing ecosystem management and population resilience should be the main goals of more comprehensive conservation plans. This includes incorporating health monitoring into conservation initiatives, safeguarding migration corridors, and increasing genetic diversity through cross population management ; a One Health approach. To make sure that future disease outbreaks or environmental stresses do not drive this critically endangered species closer to extinction, public awareness campaigns, stringent anti-poaching enforcement, and international cooperation across the Saiga's range states are also essential.
+
+**Question 5:**
+
+For Any Transmissible disease, which of the following host states are possible?
+
+1.  Infected but not diseased
+2.  Infected and diseased
+3.  Not infected but diseased.
+
+For each state, explain your reasoning and support your answer with at least one example from human or wildlife disease systems. If you believe a particular state is not possible, justify why with clear reasoning.
+
+**Answer**
+
+Infected means the host harbors the pathogen or its replicating material whilst diseased means that the host shows physiological impairment/clinical signs (not just exposure).
+
+1.  Infected but not Diseased: This is possible; as many pathogens establish sub-clinical or latent infections in host . A good wildlife example would be the White tailed deer that's infected with the meningeal worm. In the White tailed deer, the infective stage is present in the deer but causes no disease to the host.
+2.  Infected and diseased: This is also possible and common. A state whereby the pathogen replication and host responses causes tissue damage, clinical symptoms and sometimes death. A good wildlife example would be the meningeal worm in the bulk elk which inadvertently eats slugs or snails that is infected; worm larvae then travel through the spinal cord and brain. Elk shows abnormal behavior ,clinical symptoms of emaciation and eventually elk dies.
+3.  Not Infected but diseased: This state is not possible. However, an exception to this case would be a human disease system of post-infection with polio disease. This occurs from decades of recovering from acute poliomyelitis( infected and diseased phase), but still developing new or worsening weakness, fatigue or pain and cold intolerance.
