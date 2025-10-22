@@ -91,7 +91,7 @@ Incidence = (Number of new cases on a given day) ÷ (Number of individuals at ri
 |---------|-----------|--------------------------------------------|
 | 6/12/25 | 5         | 5/ 51 = **0.098(9.8%) Cases per elk day**  |
 | 6/14/25 | 2         | 2 / 44 = **0.045(4.5%) Cases per elk day** |
-| 6/15/25 | 0         | 0 / 45= **0.000(0%) Cases per elk day**    |
+| 6/15/25 | 0         | 0 / 42= **0.000(0%) Cases per elk day**    |
 
 **N.B: unit; Cases per elk day**
 
@@ -149,11 +149,11 @@ By **06/16/25**, only elk **still showing disease** were counted (recovered elk 
 
 ### c) Day when Prevalence = Incidence (numerically)
 
-###   On the first day, **06/10/25.** 
+### On the first day, **06/10/25.**
 
- 1. Incidence = 1/56 = 0.0179
+1.  Incidence = 1/56 = 0.0179
 
-2.   Prevalence = 1/56 = 0.0179
+2.  Prevalence = 1/56 = 0.0179
 
 ### d) Day with Lowest Incidence
 
@@ -227,3 +227,34 @@ Infected means the host harbors the pathogen or its replicating material whilst 
 1.  Infected but not Diseased: This is possible; as many pathogens establish sub-clinical or latent infections in host . A good wildlife example would be the White tailed deer that's infected with the meningeal worm. In the White tailed deer, the infective stage is present in the deer but causes no disease to the host.
 2.  Infected and diseased: This is also possible and common. A state whereby the pathogen replication and host responses causes tissue damage, clinical symptoms and sometimes death. A good wildlife example would be the meningeal worm in the bulk elk which inadvertently eats slugs or snails that is infected; worm larvae then travel through the spinal cord and brain. Elk shows abnormal behavior ,clinical symptoms of emaciation and eventually elk dies.
 3.  Not Infected but diseased: This state is not possible. However, an exception to this case would be a human disease system of post-infection with polio disease. This occurs from decades of recovering from acute poliomyelitis( infected and diseased phase), but still developing new or worsening weakness, fatigue or pain and cold intolerance.
+
+------------------------------------------------------------------------
+
+**WORKSHEET 4: MULTI HOST PATHOGEN SPILLOVER**
+
+**DATE: 10/19/2025**
+
+**TOPIC: MERS-COV**
+
+*Which of the following statements about MERS-CoV are correct? (If it is incorrect, provide an explanation why the statement is incorrect.)*
+
+\
+1. MERS-CoV is primarily maintained in human populations. (2 Points)
+
+**Answer: Incorrect; MERS-CoV is primarily maintained in dromedary camels and not in humans. Humans are just incidental hosts and do not sustain transmission without continuous reintroduction by camels.**
+
+2.  Camels Serve as the main animal reservoir in MERS-CoV. (2 Points)
+
+    **Answer: Correct; Research from serological and molecular experiments shows that dromedary camels are the primary reservoir host of MERS-CoV and aid spillover in humans.**
+
+3.  Humans are dead end hosts for MRS-CoV (2 Points)
+
+    **Answer: Correct; Humans are dead end hosts for MERS-CoV. Human to human transmission is limited to close contact, or around clinical scenery. Hence, sustained community transmission does not occur and as such humans are epidemiologically dead-end hosts.**
+
+4.  The estimated case fatality rate for human MERS-CoV Infections is approximately 65%. (2 points)
+
+    **Answer: Incorrect; The case fatality rate is \~ 35% and not 65% ; According to WHO and ECDC (European Center For Disease Prevention and Control)**
+
+5.  The epidemic curve indicates this is a point source outbreak. (2 Points)
+
+    **Answer: Incorrect; The epidemic curve shows multiple peaks over time and also consistent with sporadic outbreak over a decade. It is common with zoonotic spillover with limited human to human transmission and a not a single point source outbreak.**
