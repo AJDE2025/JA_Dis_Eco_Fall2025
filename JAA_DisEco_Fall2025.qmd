@@ -11,6 +11,8 @@ Formula: ¶ \* r\^2
 
 where r is the radius.
 
+------------------------------------------------------------------------
+
 {r}
 
 # Function to calculate the area of a circle
@@ -258,3 +260,43 @@ Infected means the host harbors the pathogen or its replicating material whilst 
 5.  The epidemic curve indicates this is a point source outbreak. (2 Points)
 
     **Answer: Incorrect; The epidemic curve shows multiple peaks over time and also consistent with sporadic outbreak over a decade. It is common with zoonotic spillover with limited human to human transmission and a not a single point source outbreak.**
+
+------------------------------------------------------------------------
+
+**WORKSHEET 5: COMMUNITY EPIDEMIOLOGICAL FRAMEWORK**
+
+**DATE: 11/01/2025**
+
+**TOPIC: MARBURG VIRUS OUTBREAK, RWANDA 2024**
+
+1.  Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a
+    spillover event or an emerging infectious disease? Justify your classification.
+
+    **ANSWER**
+
+    According to Fenton and Pedersen's community epidemiology approach, this outbreak is more of a **spillover event** with apparent multihost dynamics than an emerging infectious illness. During cave exposure, the index patient most likely contracted Marburg virus from its natural reservoir, **Egyptian rousette bats.** Transmission to humans occurred occasionally via **cross-species contact** (low between-species transmission, f₁₂ \> 0). However, sustained human to human transmission was limited to healthcare settings through contact with infected fluids (low within-species transmission, f₂₂ \< 1).\
+    Thus, whereas secondary infections among healthcare workers represent amplification due to nosocomial exposure, the virus cannot maintain transmission in human populations without frequent reintroduction from the bat reservoir. According to Fenton and Pedersen's continuum, this puts the outbreak in the spillover to apparent multi-host zone, where it is either temporary or reliant on reservoir transmission rather than a self sustaining pandemic in the new host.
+
+2.  What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
+
+    **ANSWER**
+
+    1.  **Community Settings**
+
+        \(a\) Minimize exposure to reservoir hosts by limiting entry into caverns frequented by bats, controlling ecotourism, and warning people not to eat fruit tainted by bat urine or saliva.
+
+        \(b\) Community Awareness and Surveillance: Promoting early detection by means of swift reporting and culturally appropriate risk communication regarding the identification of Marburg symptoms and the need for proper medical attention.
+
+        \(c\) Environmental Hygiene: Clean contaminated surfaces and if required, employ the separation of impacted homes and niches.
+
+        \(d\) Employing skilled and trained individuals in handling of infected deceased corpse to avoid contact based transmission, viz a viz practicing safe burial practices.
+
+    2.  **Healthcare Settings**
+
+        \(a\) Implementation of strict nursing practices with the use of personal protective equipment (PPE). including gowns, glove, respirators and face shields as part of infection prevention control.
+
+        \(b\) Screening of patients for hemorrhagic signs, isolate suspected cases and group confirmed cases in designated locations as part of early triage and isolation.
+
+        \(c\) Using chlorine based solutions in disinfecting surfaces that has been contaminated and disposal of such contaminated objects safely.
+
+        \(d\) Keep an eye on and isolatye health care personnel who have been exposed to prevent human to human transmission.
