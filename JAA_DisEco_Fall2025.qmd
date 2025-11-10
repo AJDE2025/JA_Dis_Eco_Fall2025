@@ -269,8 +269,7 @@ Infected means the host harbors the pathogen or its replicating material whilst 
 
 **TOPIC: MARBURG VIRUS OUTBREAK, RWANDA 2024**
 
-1.  Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a
-    spillover event or an emerging infectious disease? Justify your classification.
+1.  Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
 
     **ANSWER**
 
@@ -299,4 +298,60 @@ Infected means the host harbors the pathogen or its replicating material whilst 
 
         \(c\) Using chlorine based solutions in disinfecting surfaces that has been contaminated and disposal of such contaminated objects safely.
 
-        \(d\) Keep an eye on and isolatye health care personnel who have been exposed to prevent human to human transmission.
+        \(d\) Keep an eye on and isolate health care personnel who have been exposed to prevent human to human transmission.
+
+------------------------------------------------------------------------
+
+**WORKSHEET 6: Using QPweb (Quantitative Parasitology)**
+
+**DATE: 11/9/2025**
+
+**TOPIC: VERTICO IN FISH**
+
+ 1. Determine Prevalence\
+a. Use the online tool QPweb to calculate the prevalence of Vertico in each\
+pond.\
+b. Report the prevalence as a percentage (e.g., 0.35 → 35%).
+
+**ANSWER**
+
+Prevalence of Vertico in Pond 1 = 0.300 — **30%**
+
+Prevalence of Vertico in Pond 2 = 0.067— **6.7%**
+
+2\. Calculate the 95% Confidence Interval (CI)\
+a. Use QPweb to calculate the 95% CI for each prevalence estimate.\
+b. Report the CI values as percentages, rounded meaningfully (e.g., 0.057\
+→ 6%).
+
+**ANSWER**
+
+| PONDS  | 95% CI - LOWER   | 95% CI - UPPER    |
+|--------|------------------|-------------------|
+| POND 1 | 0.140 — **14%**  | 0.525 — **52.5%** |
+| POND 2 | 0.003 — **0.3%** | 0.302 — **30.2%** |
+|        |                  |                   |
+
+![](images/POND 1-01.png)
+
+![](images/POND 2.PNG)
+
+3.Compare Prevalence Between the Two Ponds
+
+\
+a. Perform a Fisher’s exact test to compare the two prevalence values.\
+b. Report the p-value.\
+c. State whether the difference is statistically significant.\
+i. If p \< 0.05, the difference is statistically significant
+
+![](images/POND 1& POND 2.PNG)
+
+Fisher's Exact Test:
+
+Pond 1 : 6 Infected; 14 Uninfected
+
+Pond 2 : 1 Infected; 14 Uninfected
+
+Two sided P value = **0.1987.**
+
+Because **p \> 0.05**, the difference in *Vertico* disease prevalence between pond 1 and pond 2 is **not statistically significant**. Although pond 1 shows a higher apparent prevalence of **(30%)**, and pond 2 with a prevalence of **(6.7%)**, this difference of value could be as a result of sampling chance as opposed to true biological or environmental difference.
