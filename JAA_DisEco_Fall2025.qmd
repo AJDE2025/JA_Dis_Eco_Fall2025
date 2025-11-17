@@ -308,10 +308,13 @@ Infected means the host harbors the pathogen or its replicating material whilst 
 
 **TOPIC: VERTICO IN FISH**
 
- 1. Determine Prevalence\
-a. Use the online tool QPweb to calculate the prevalence of Vertico in each\
-pond.\
-b. Report the prevalence as a percentage (e.g., 0.35 → 35%).
+1.  Determine Prevalence\
+
+<!-- -->
+
+a.  Use the online tool QPweb to calculate the prevalence of Vertico in each\
+    pond.\
+b.  Report the prevalence as a percentage (e.g., 0.35 → 35%).
 
 **ANSWER**
 
@@ -332,9 +335,9 @@ b. Report the CI values as percentages, rounded meaningfully (e.g., 0.057\
 | POND 2 | 0.003 — **0.3%** | 0.302 — **30.2%** |
 |        |                  |                   |
 
-![](images/POND 1-01.png)
+![](images/POND%201-01.png)
 
-![](images/POND 2.PNG)
+![](images/POND%202.PNG)
 
 3.Compare Prevalence Between the Two Ponds
 
@@ -344,7 +347,7 @@ b. Report the p-value.\
 c. State whether the difference is statistically significant.\
 i. If p \< 0.05, the difference is statistically significant
 
-![](images/POND 1& POND 2.PNG)
+![](images/POND%201&%20POND%202.PNG)
 
 Fisher's Exact Test:
 
@@ -355,3 +358,74 @@ Pond 2 : 1 Infected; 14 Uninfected
 Two sided P value = **0.1987.**
 
 Because **p \> 0.05**, the difference in *Vertico* disease prevalence between pond 1 and pond 2 is **not statistically significant**. Although pond 1 shows a higher apparent prevalence of **(30%)**, and pond 2 with a prevalence of **(6.7%)**, this difference of value could be as a result of sampling chance as opposed to true biological or environmental difference.
+
+------------------------------------------------------------------------
+
+**WORKSHEET 7: Nipah Virus, Langya Henipavirus & Avian Reovirus**
+
+## **1**
+
+**Nipah Virus**\
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting.
+
+**ANSWER**
+
+The ecology of the Nipah virus varies greatly between **Bangladesh** and **Malaysia**, resulting in different preventative measures and routes of transmission.
+
+**Malaysia: Transmission**
+
+Fruit bats of the Pteropus genus are home to the extremely contagious zoonotic henipavirus known as Nipah virus (NiV), which is heavily influenced by ecological shifts and human land usage. The transmission pathway in **Malaysia (1998–1999)** was bat → pig → human. Fruit trees planted close to carefully managed pig farms attracted fruit bats, the natural reservoirs. Bats carried viruses into pig cages through their urine, saliva, and partially consumed fruit. Through intimate contact with sick pigs, respiratory secretions, and contaminated fomites on big commercial farms, pigs got infected and acted as amplifier hosts, achieving high viral loads and effectively spreading NiV to people, primarily farmers and slaughterhouse workers. In this context, there was very little human-to-human transmission; the majority of cases were related to farms and occupations.
+
+**Bangladesh: Transmission**
+
+Since there isn't a significant pig sector acting as an amplifier, the ecology and transmission pattern are different in Bangladesh (and areas of eastern India). Rather, direct bat to human transfer and subsequent human to human transmission are the main ways that NiV spillover happens. When fruit bats visit date palm trees, they often lick or urinate into clay collection jars that are used to gather raw date palm sap. People that consume fresh, unboiled date palm sap are exposed to a virus that is spread by bats as a result of this activity. NiV spreads further through close contact with sick people after the initial spillage, particularly in homes and healthcare facilities (caregivers exposed to respiratory secretions, bodily fluids, and contaminated bedding).
+
+The epidemiologic triad (agent, host, and environment) and the global change topics (climate change, deforestation, and changes in farming practices) are supported by these divergent pathways of transmission, which lead to quite diverse preventative approaches in each area. Control efforts in Malaysia concentrate on **managing bridge hosts and biosecurity at the agricultural level:**
+
+1\. Large-scale pig movement management and culling in order to eliminate the amplifier population.\
+\
+2. Keeping pig pens and orchards apart to prevent pigs and bats from sharing an area.\
+\
+3. Enhancing waste management, habitat design, and farm cleanliness to lessen bat excrement contamination.\
+\
+4. Pig workers and slaughterhouse employees should use personal protective equipment (PPE) and follow safe handling procedures.\
+\
+5. Agricultural zoning adjustments to prevent the co-location of bat feeding places with intense pig production, as well as ongoing observation of pig farms and bats.
+
+Prevention in **Bangladesh** needs to focus on both subsequent person-to-person transmission and bat-to-human spillover via food:
+
+1.  Modifying **date palm sap collection** practices by using **bamboo skirts or physical covers** on collection pots to prevent bats from accessing sap.
+2.  Encouraging **boiling or avoiding consumption of raw sap**, especially during high-risk seasons when bats are most active around sap harvest.
+3.  Community education on avoiding **partially eaten fruit or foods contaminated by bats**.
+4.  Strengthening **infection prevention and control (IPC)** in hospitals and clinics: use of gloves, masks, eye protection, safe handling of secretions, and isolation of suspected NiV patients.
+5.  Promoting safer **home caregiving practices**, such as minimizing unprotected contact with body fluids and improving hygiene around sick relatives.
+
+Conclusively, Bat behavior and contact patterns are changing due to climate change and land use changes such as deforestation, rezoning and agricultural development which opens up new forms for both forms of the transmission. In Bangladesh, seasonal rhythms and climatic conditions alter bat feeding behaviour and sap harvest timing, which affects the risk period for food borne transmission; in Malaysia, deforestation and extensive pig farming brought about bats and pigs being in close proximity.
+
+## 2
+
+**Avian Reovirus**\
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.
+
+**ANSWER**
+
+There are several ways that Avian Reoviruses (ARV) can propagate, including both horizontal and vertical channels. One of the major ways is through the fecal–oral route, in which infected birds excrete viruses that contaminate litter, equipment, water, and feed, is the main method of horizontal transmission. By consuming or coming into contact with these contaminated materials, birds in the same area can get infected. Additionally, there is vertical transmission, in which ARV is passed from infected breeder hens to their eggs, resulting in congenitally infected chicks. Due to their rapid fecal-oral dissemination, these chicks serve as a "nucleus of infection" for the remainder of the hatch.
+
+ARV transmission is favored by a number of environmental variables. **Polluted feed or water,** **overcrowding, poor litter hygiene, inadequate ventilation, and multiage housing systems are the main causes of transmission.** ARV is still tenacious in the environment, enduring for weeks on surfaces and in litter, particularly in warm or humid environments. Because of its persistence, birds in unsanitized barns are more likely to come into contact with infectious particles.
+
+Key **pathogen characteristics** also support transmission, especially the fecal-oral route. ARV is a **non-enveloped, environmentally stable virus**, highly resilient and able to withstand environmental stressors such as temperature fluctuations, drying, and routine disinfectants. Its durability in organic matter allows it to maintain infectivity in litter and manure, which is why the fecal–oral route is the most efficient and widely observed.
+
+**Viral arthritis/tenosynovitis** in waterfowl, including ducks and geese, is an example of a wild bird disease brought on by ARV. ARV infection causes **lameness, swelling joints,** and reduced mobility in these birds, which hinders their ability to travel, forage, and avoid predators. In addition to lowering overall survival, this also contributes to losses in the fitness and health of the local population.
+
+## **3**
+
+**Langya henipavirus**\
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
+
+**ANSWER**
+
+The recently discovered zoonotic virus known as Langya henipavirus (LayV) was initially found in eastern China. Given that surveillance investigations have shown the largest percentage of LayV-positive samples in numerous species of shrews when compared to other animals, the shrew appears to be the most likely reservoir host. This suggests that **shrews** are the main ecological source of human infections and that they sustain the virus in the wild.
+
+Humans are thought to contract the disease through **spillover from shrews**, most commonly through **indirect contact with settings polluted by shrew feces, urine, or saliva**. Occupational or rural exposure, where individuals often contact with tiny wildlife or their habitats, has been linked to human illness. Crucially, there is no proof of persistent human-to-human transmission; instead, occurrences have been isolated and not frequent.
+
+Since LayV has not shown effective or sustained transmission among humans, does not shown growing case clusters, and has not adapted to human-to-human propagation, it is categorized as a spillover event rather than a possible emerging infectious disease (EID). Without community level amplification, each case seems to be a solitary zoonotic introduction. As a result, although if LayV is noteworthy in terms of surveillance, its epidemiological behavior does not suggest that it will eventually become an EID.
