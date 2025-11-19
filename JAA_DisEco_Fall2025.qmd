@@ -429,3 +429,133 @@ The recently discovered zoonotic virus known as Langya henipavirus (LayV) was in
 Humans are thought to contract the disease through **spillover from shrews**, most commonly through **indirect contact with settings polluted by shrew feces, urine, or saliva**. Occupational or rural exposure, where individuals often contact with tiny wildlife or their habitats, has been linked to human illness. Crucially, there is no proof of persistent human-to-human transmission; instead, occurrences have been isolated and not frequent.
 
 Since LayV has not shown effective or sustained transmission among humans, does not shown growing case clusters, and has not adapted to human-to-human propagation, it is categorized as a spillover event rather than a possible emerging infectious disease (EID). Without community level amplification, each case seems to be a solitary zoonotic introduction. As a result, although if LayV is noteworthy in terms of surveillance, its epidemiological behavior does not suggest that it will eventually become an EID.
+
+------------------------------------------------------------------------
+
+**WORKSHEET 8 : EXAMINATION OF A RACOON ROUND WORM.**
+
+Total Raccoons = 106
+
+Infected = 50
+
+uninfected = 56
+
+Overall prevalence:
+
+## 1. Overall prevalence of *Baylisascaris procyonis*
+
+-    **Sample size (N)** = 106 Raccoons
+
+    Infected (num_Bpro \> 0) = **50**
+
+    Uninfected (num_Bpro = 0) = **56**
+
+**Prevalence**
+
+50/106 = 0.472 \~ **47.2%**
+
+![](images/ovr-04.PNG)
+
+**2. Compare prevalence among the three regions (North, Central, South). Provide 95% CIs and a statistical comparison.**
+
+![](images/nsc.PNG)
+
+![](images/sthp.PNG)
+
+![](images/nthp.PNG)
+
+![](images/cetlp.PNG)
+
+|            |       |              |                |               |
+|------------|-------|--------------|----------------|---------------|
+| **Region** | **n** | **Infecte**d | **Prevalence** | **CI**        |
+| North      | 49    | 14           | 28.6%          | 16.6% - 43.3% |
+| Central    | 14    | 9            | 64.3%          | 35.1% - 87.2% |
+| South      | 43    | 27           | 62.8%          | 46.7% - 77%   |
+
+### **Statistical comparison (QPweb)**
+
+-    Test: Fisher's Test , **p ≈ 0.0019**
+
+Prevalence **differs significantly** among regions. North has much lower infection, while Central and South show high prevalence (\>60%). This suggests regional ecological differences (habitat, climate, raccoon density, latrine distribution).
+
+**3. Compare prevalence between males and females. Provide 95% CIs and statistical comparison.**
+
+![](images/mlep.PNG)
+
+![](images/femp.PNG)
+
+![](images/mfci.PNG)
+
+|         |       |              |                |               |
+|---------|-------|--------------|----------------|---------------|
+| **Sex** | **N** | **Infected** | **Prevalence** | **CI**        |
+| Female  | 37    | 24           | 64.9%          | 47.5% - 79.8% |
+| Male    | 69    | 26           | 37.7%          | 26.3% - 50.2% |
+
+### **Statistical comparison (QPweb)**
+
+-    Test: Fisher's Test , **p ≈ 0.0144**
+
+Females have **significantly higher prevalence** than males. This may reflect behavioral differences (den attendance, contact with juveniles, latrine use).
+
+**4. Compare prevalence between adults and young adults. Provide 95% CIs and a statistical test.**
+
+![](images/adt.PNG)
+
+![](images/yadt.PNG)
+
+![](images/yadtci.PNG)
+
+|                 |       |              |                |                |
+|-----------------|-------|--------------|----------------|----------------|
+| **Age Class**   | **n** | **infected** | **Prevalence** | **CI**         |
+| Adult (A)       | 69    | 36           | 52.2%          | 39.8% - 64.4 % |
+| Young Adult(YA) | 37    | 14           | 37.8%          | 22.5% - 55.2%  |
+
+### **Statistical comparison (QPweb)**
+
+-    Test: Fisher's Test , **p ≈ 0.1526**
+
+    Adults *tend* to have higher prevalence, but this difference **is not statistically significant**.This suggests a possible cumulative exposure effect, but the dataset cannot conclusively confirm it.
+
+**5. Analyze sex differences within each region.**
+
+![](images/regionsexp.PNG)
+
+![](images/NTHFP.PNG)
+
+![](images/CTLM.PNG)
+
+![](images/ctlf-01.PNG)
+
+![](images/STHCI.PNG)
+
+![](images/STHFCI.PNG)
+
+![](images/sthmci.PNG)
+
+![](images/nthci.PNG)
+
+**Females**
+
+|            |       |              |                 |                |
+|------------|-------|--------------|-----------------|----------------|
+| **Region** | **n** | **Infected** | **Prevalence**  | **CI**         |
+| North      | 21    | 8            | 38.1%           | 19.7% - 59.7%  |
+| Central    | 5     | 5            | 100%            | 50.0% - 100.0% |
+| South      | 11    | 11           | 100%            | 70.9% - 100%   |
+
+**Males**
+
+| Region  | n   | Infected | Prevalence | CI            |
+|---------|-----|----------|------------|---------------|
+| North   | 28  | 6        | 21.4%      | 10.2% - 41.5% |
+| Central | 9   | 4        | 44.4%      | 19.3% - 80.7% |
+| south   | 32  | 16       | 50.0%      | 32.6% - 67.4% |
+
+-   In **Central and Southern** regions, *all* females were infected. Males had lower prevalence everywhere. Sex differences are strongest where overall environmental infection pressure is high.
+
+# **CONCLUSION**
+
+Infection with ***B. procyonis*** varies widely, with the highest prevalence in Central and South Asia. Females are more likely to become infected, particularly in high-risk settings. Age differences exist, but are not statistically significant. Worm burdens are highly aggregated, making a few number of heavily infected raccoons the primary cause of ambient egg contamination. These patterns highlight important risk gradients for wildlife, domestic animals, and human exposure in endemic areas.
